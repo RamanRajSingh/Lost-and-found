@@ -1,0 +1,140 @@
+[33mcommit d2be3f9d2c70b80ee2f5e8fb715ba793f28f4abb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 318bf7b 9d2c2c3
+Author: RamanRajSingh <ramanrajsingh07@gmail.com>
+Date:   Fri Feb 28 13:46:21 2025 +0530
+
+    Merger
+
+[33mcommit 318bf7bb997e50f68718d7b20cace0a4743f5721[m
+Author: RamanRajSingh <ramanrajsingh07@gmail.com>
+Date:   Fri Feb 28 13:44:06 2025 +0530
+
+    Adding New CHanges
+
+[33mcommit 9d2c2c3a40ce391ed5c9c0f25b0f196f953f89e3[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Fri Feb 28 12:49:05 2025 +0530
+
+    Update index1.html
+
+[33mcommit b5266cfd891c684e03e067157b89611852777c52[m
+Merge: 31b3f06 a96b8dc
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Fri Feb 28 12:23:17 2025 +0530
+
+    Merge pull request #2 from RamanRajSingh/main
+    
+    Adding required Css
+
+[33mcommit a96b8dcfd35deed3bd0e6e8919601a5e70b55b68[m
+Merge: 5e99d8e 31b3f06
+Author: RamanRajSingh <ramanrajsingh07@gmail.com>
+Date:   Fri Feb 28 12:20:51 2025 +0530
+
+    Merge branch 'main' of https://github.com/RamanRajSingh/hackathon
+
+[33mcommit 5e99d8ee397e3cfdb4f02425ca5699531dffeab3[m
+Author: RamanRajSingh <ramanrajsingh07@gmail.com>
+Date:   Fri Feb 28 12:17:14 2025 +0530
+
+    Adding required changes
+
+[33mcommit 31b3f06a10a12ace77ba5f735ca811172130f673[m
+Merge: f8498d9 de76761
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Fri Feb 28 11:57:22 2025 +0530
+
+    Merge pull request #1 from RamanRajSingh/main
+    
+    Add New Changes
+
+[33mcommit de76761e687489a0c03b9d6fe112581421dd931e[m
+Merge: d796753 f8498d9
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Fri Feb 28 11:57:08 2025 +0530
+
+    Merge branch 'main' into main
+
+[33mcommit f8498d92949e096497e579ceca50ceadda85a09b[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Fri Feb 28 10:44:08 2025 +0530
+
+    Update styles.css
+
+[33mcommit e9b531d1df70f13555270fccfabc2e5d67fdbf28[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Fri Feb 28 10:43:24 2025 +0530
+
+    Update scripts.js
+
+[33mcommit 1cc7c9a8d330f08798f5ae7c0a1cd67287148af1[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Fri Feb 28 10:42:53 2025 +0530
+
+    Update index1.html
+
+[33mcommit d4d6e48a84e710b040e21a605cfdac959371ac30[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 23:32:42 2025 +0530
+
+    Update styles.css
+
+[33mcommit c964b0d6bd33c8f05f81800a197d2071c6e1bd29[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 23:32:11 2025 +0530
+
+    Update scripts.js
+
+[33mcommit d57cdb3d2140c0e3b6504515cea92351684b7e6c[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 23:31:12 2025 +0530
+
+    Update index1.html
+
+[33mcommit d7967538aa4e26f7417d6c69619d21fd4ce00425[m
+Author: RamanRajSingh <ramanrajsingh07@gmail.com>
+Date:   Thu Feb 27 20:30:43 2025 +0530
+
+    Add New Changes
+
+[33mcommit cd1d88669a26a680598ac8f870908c483c2d43ae[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 17:08:56 2025 +0530
+
+    Update styles.css
+
+[33mcommit 453eabb5cfe921e650b0252394f0ba5900082b22[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 17:08:30 2025 +0530
+
+    Update scripts.js
+
+[33mcommit b4d2ffa02cc824e8ee9f833bb0f2612d6c73f5c2[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 17:07:49 2025 +0530
+
+    Update index1.html
+
+[33mcommit 305625a48cadbc8155c6fa9301df624d30c9cb2d[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 11:55:53 2025 +0530
+
+    Update index1.html
+
+[33mcommit 42923b869057a3421d94427a261b6aca44303205[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 11:23:09 2025 +0530
+
+    Delete CNAME
+
+[33mcommit 9dfdd96532e2c5cd3343aa54b25cc3363bf1cce9[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 11:22:51 2025 +0530
+
+    Create CNAME
+
+[33mcommit 1dc832b2589196274e60e1686f7e85bde5f9d336[m
+Author: Rohit Kumar <rohitkumarrk2604@gmail.com>
+Date:   Thu Feb 27 11:21:07 2025 +0530
+
+    Add files via upload
